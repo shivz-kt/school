@@ -1,0 +1,16 @@
+.top_bar{padding:5px 0px;}
+.social_icon{padding-right:10px;}
+.social a{font-size:20px;}
+.social a:hover{font-size:30px;color:#4dbf1c;}
+.ph a:hover{font-size:20px;color:#4dbf1c;}
+.sams a{font-size:22px;font-style:bold;}
+.sams a:hover{color:#008000;border-bottom:none;font-size:30px;font-family:bold;}
+#mymenu ul li a:hover{font-size:20px;font-family:bold;color:#FF0000;}
+.courses a{font-size:17px;}
+.courses a:hover{font-size:20px; color:#FF0000;}
+.pcourse img{width:255px; height:155px;}
+.pcourse .p_text{position:relative;}
+.pcourse .text_ho{position:absolute;left:0px;bottom:15px;padding-left:35px;padding-right:35px;
+ font-family:bold;font-size:20px;color:#000000;}
+.text_ho a:hover{font-size:25px;color:#FF0000;}
+.ft a:hover{background:#fff;font-size:25px;font-family:bold;color:#FF0000;}
